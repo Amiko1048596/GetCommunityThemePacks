@@ -12,6 +12,14 @@ import shutil
 import requests
 import os
 
+print("""\
+|GetCommunityThemePacks v0.2
+--------------
+|Скрипт создан благодяря Amiko из П.П.А. (Психологическая Помощь Amino).
+|По всем вопросам обращаться сюда http://aminoapps.com/p/g4jdue
+|или в тг @amino_acid_333
+--------------\
+""")
 
 def CURRENT_DATE():
     return time.strftime("%Y-%m-%d")
